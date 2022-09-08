@@ -1,6 +1,6 @@
 
 Functioning RestAPI example.
-    Tech-stack:
+    -Tech-stack:
         -Pthon
         -Django
         -Django-REST-Framework
